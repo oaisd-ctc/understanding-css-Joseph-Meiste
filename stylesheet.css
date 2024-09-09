@@ -1,0 +1,19 @@
+li {
+    color: #7F4F24;
+    list-style-type: none;
+}
+
+#name {
+    font-size: 50px;
+    color: #7F4F24;
+    background-color: #DB9C60;
+    width: 16.3%;
+    margin: auto;
+}
+
+.box {
+    background-color: #A68A64;
+    margin: auto;
+    width: 45%;
+    text-align: center;
+}
